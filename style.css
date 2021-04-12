@@ -3,3 +3,41 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  text-align: center;
+}
+
+section figure {
+  text-align: center;
+}
+
+nav {
+  text-align: center;
+}
+
+nav a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: rgb(182, 188, 221);
+}
+
+section figcaption {
+  text-align: center;
+  font-size: 14px;
+}
+
+#featured-property > p {
+  margin: auto;
+  text-align: center;
+  width: 800px;
+  padding-block: 5px;
+  padding-bottom: 20px;
+}
+
+#details > div {
+  float: left;
+  background-color: aquamarine;
+  text-align: center;
+  width: 25%;
+}
